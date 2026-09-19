@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "bonsai-obs",
+  "version": "0.1.0",
+  "description": "bonsai 観測所クイックアクセス — repos-analyze / relations / profile への近道 + 現在タブの repo 名表示",
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "bonsai-obs"
+  },
+  "background": { "service_worker": "background.js" },
+  "permissions": ["tabs", "clipboardWrite"],
+  "icons": { "16": "icons/icon16.png", "48": "icons/icon48.png", "128": "icons/icon128.png" }
+}
