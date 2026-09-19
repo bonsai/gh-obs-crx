@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
+  <app appid='16c01163a38fab46058cdfea4623b5b5'>
+    <updatecheck codebase='https://raw.githubusercontent.com/bonsai/gh-obs-crx/main/bonsai-obs.crx' version='0.1.0' />
+  </app>
+</gupdate>
